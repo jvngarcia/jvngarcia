@@ -1,0 +1,6 @@
+- 👋 Hola, soy Ángel García.
+- 👀 Me encanta el desarrollo, pero más que eso, me encanta crear.
+- 🌱 Estoy en constante crecimiento y aprendizaje.
+- 💞️ Estoy colaborando con proyectos un tanto privados para empresas 😁.
+- 💻 Me enfoco en el desarrollo de academias virtuales.
+- 📫 Puedes saber más de mi en jvngarcia.com.
