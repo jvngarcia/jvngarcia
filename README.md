@@ -2,5 +2,4 @@
 - 👀 Me encanta el desarrollo, pero más que eso, me encanta crear.
 - 🌱 Estoy en constante crecimiento y aprendizaje.
 - 💞️ Estoy colaborando con proyectos un tanto privados para empresas 😁.
-- 💻 Me enfoco en el desarrollo de academias virtuales.
-- 📫 Puedes saber más de mi en jvngarcia.com.
+- 📫 Puedes saber más de mi en [Link](https://jvngarcia.com/ "mi sitio web").
