@@ -1,4 +1,4 @@
-#👋 Hola, soy Ángel García.
+#Hola, soy Ángel García 👋.
 ### Freelance PHP - Laravel
 
 Soy programador de software profesional desde hace mas de 3 años.
