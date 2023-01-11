@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Angel 👋</h1>
+<h1 align="center"> Hi, I'm Angel 👋 <br /> FullStack Developer</h1>
 
 - 📧 You can contact me at angelgarciaweb@gmail.com
 - 💼 Currently working on [Bancamiga](https://www.bancamiga.com/) and [Aluxion Labs](https://aluxion.com/)
