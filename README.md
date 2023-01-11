@@ -5,4 +5,4 @@
 
 
 # Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,flutter,firebase,supabase,laravel,php,vite,postgres,mysql,wordpress,git,github,gitlab)](https://jvngarcia.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,flutter,firebase,supabase,laravel,php,vite,postgres,mysql,wordpress,figma,git,github,gitlab)](https://jvngarcia.com)
