@@ -1,9 +1,5 @@
-# Hola, soy Ángel García 👋.
-### Freelance PHP - Laravel
+<h1 align="center"> Hi, I'm Angel 👋</h1>
+<h2 align="center">Freelance PHP - Laravel</h2>
 
-Soy programador de software profesional desde hace mas de 3 años.
-
-- 👀 Me encanta el desarrollo, pero más que eso, me encanta crear.
-- 🌱 Estoy en constante crecimiento y aprendizaje.
-- 💞️ Estoy colaborando con proyectos un tanto privados para empresas 😁.
-- 📫 Puedes saber más de mi en [mi sitio web](https://jvngarcia.com/ "mi sitio web").
+# Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
