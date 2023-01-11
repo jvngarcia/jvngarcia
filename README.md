@@ -9,4 +9,4 @@
 
 
 # Stats
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvngarcia&show_icons=true&theme=transparent)
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvngarcia)](https://github.com/jvngarcia/github-readme-stats)
