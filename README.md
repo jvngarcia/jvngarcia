@@ -12,4 +12,3 @@
 <h3> My side projects </h3>
 
 - [Minimal Laravel Theme](https://github.com/jvngarcia/minimal-theme): It is a minimalist theme made in laravel for independent developers who want to have the basics of a blog without the need to create the configuration from scratch.
-- Newspaper on artificial intelligence: In Development.
