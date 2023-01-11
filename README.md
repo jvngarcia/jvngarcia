@@ -6,3 +6,7 @@
 
 # Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,laravel,php,vite,postgres,mysql,wordpress)](https://skillicons.dev)
+
+
+# Stats
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvngarcia&show_icons=true&theme=transparent)
