@@ -2,7 +2,6 @@
 
 - 📧 You can contact me at angelgarciaweb@gmail.com
 - 💼 Currently working on [Bancamiga](https://www.bancamiga.com/) and [Aluxion Labs](https://aluxion.com/)
-- 
 
 
 # Tools I Use
