@@ -6,7 +6,7 @@
 
 <h3> Tools I Use </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,dart,flutter,firebase,supabase,nodejs,python,fastapi,php,laravel,vite,postgres,mysql,wordpress,figma,xd,git,github,gitlab,aws)](https://jvngarcia.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,postcss,sass,bootstrap,tailwind,js,react,nextjs,dart,flutter,firebase,supabase,nodejs,python,fastapi,php,laravel,vite,postgres,mysql,wordpress,figma,xd,git,github,gitlab,aws)](https://jvngarcia.com)
 
 
 <h3> My side projects </h3>
