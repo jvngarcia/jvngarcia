@@ -11,4 +11,4 @@
 
 <h3> My side projects </h3>
 
-- [Minimal Laravel Theme](https://github.com/jvngarcia/minimal-theme): It is a minimalist theme made in laravel for independent developers who want to have the basics of a blog without the need to create the configuration from scratch.
+- [TailwindFlow](https://github.com/jvngarcia/tailwindflow): An open source web application for all those who want fast and simple components for all their tailwind projects
