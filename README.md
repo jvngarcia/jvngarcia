@@ -11,4 +11,4 @@
 
 <h3> My side projects </h3>
 
-- [TailwindFlow](https://github.com/jvngarcia/tailwindflow): An open source web application for all those who want fast and simple components for all their tailwind projects
+- [indietool.tech](https://indietool.tech/): Discover the best tools for indie hackers.
