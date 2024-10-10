@@ -2,7 +2,7 @@
 <p align="center">I'm <strong>Full Stack Web Developer</strong> with 4 years of experience.<br />Check my content 👇!</p>
 
 - 📧 You can contact me at angelgarciaweb@gmail.com
-- 💼 Currently working on [Bancamiga](https://www.bancamiga.com/) and [Aluxion Labs](https://aluxion.com/)
+- 💼 Currently working on [Aluxion Labs](https://aluxion.com/)
 
 <h3> Tools I Use </h3>
 
