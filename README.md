@@ -11,5 +11,5 @@
 
 <h3> My side projects </h3>
 
-- [Meet Volume Control]([https://indietool.tech/](https://chromewebstore.google.com/detail/meet-volume-control/oapkljojklpifklghflpjbgladpicdfl?authuser=1&hl=es)): Easily adjust the volume of your meetings with a simple slider without affecting your device.
+- [Meet Volume Control](https://chromewebstore.google.com/detail/meet-volume-control/oapkljojklpifklghflpjbgladpicdfl?authuser=1&hl=es): Easily adjust the volume of your meetings with a simple slider without affecting your device.
 - Reading Assistant (In development): A google chrome extension that allows you to understand what you are reading.
