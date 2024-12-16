@@ -1,5 +1,5 @@
 <h3 align="center"> Hi, I'm Angel 👋 </h3>
-<p align="center">I'm <strong>Full Stack Web Developer</strong> with 4 years of experience.<br />Check my content 👇!</p>
+<p align="center">I'm <strong>Full Stack Web Developer</strong> with 6 years of experience.<br />Check my content 👇!</p>
 
 - 📧 You can contact me at angelgarciaweb@gmail.com
 - 💼 Currently working on [Aluxion Labs](https://aluxion.com/)
